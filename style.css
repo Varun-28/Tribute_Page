@@ -1,0 +1,42 @@
+body{
+    background: url('img/pawel-czerwinski-mineSpp-Wco-unsplash.jpg');
+    background-color: black;
+    background-size: cover;
+}
+.container-fluid{
+    background: rgba(0,0,0,0.9);
+    margin: 1%;
+    width: 95%;
+    border-radius: 10px;
+}
+#main-heading{
+    color: #DAAD86;
+    font-family: 'Lobster', cursive;
+    padding: 25px;
+    font-size: 80px;
+}
+header h3,dt{
+    color: #659DBD;
+    font-family: 'Noto Serif', serif;
+    padding: 7px;
+    font-size: 15px;
+}
+dd{
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+.sub{
+   font-family: 'Noto Serif', serif;
+    color: #FBEEC1;
+    padding: 50px;
+    font-size: 20px;
+}
+.center{
+    display: block;
+    margin: auto;
+    border-radius: 20px;
+}
+dl{
+    width: 60%;
+    margin: auto;
+}
