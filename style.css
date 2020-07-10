@@ -41,7 +41,7 @@ dl{
     margin: auto;
 }
 @media screen and (max-width: 800px) {
-  .container-fluid, #main-heading, dl, header h3,h4 {
+  .container-fluid, #main-heading, dl, .text-center {
     width: 98%; /* The width is 100%, when the viewport is 800px or smaller */
   }
 }
